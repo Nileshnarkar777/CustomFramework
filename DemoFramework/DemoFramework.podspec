@@ -9,5 +9,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "10.0"
   spec.swift_version = "4.2"
   spec.source       = { :git => "https://github.com/Nileshnarkar777/CustomFramework.git", :tag => "#{spec.version}" }
+  spec.source_files  = "DemoFramework/**/*.{h,swift}", "DemoFramework"
   spec.requires_arc = true
 end
