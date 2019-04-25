@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DemoFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A short summary about my DemoFramework."
   spec.description  = "A short description about my DemoFramework that support cocoapod."
   spec.homepage     = "https://github.com/Nileshnarkar777/CustomFramework.git"
