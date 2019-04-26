@@ -1,0 +1,21 @@
+{
+  "name": "DemoFramework",
+  "version": "1.0.1",
+  "summary": "A short summary about my DemoFramework.",
+  "description": "A short description about my DemoFramework that support cocoapod.",
+  "homepage": "https://github.com/Nileshnarkar777/CustomFramework.git",
+  "license": "MIT",
+  "authors": {
+    "Nilesh Narkar": "nilesh.narkar@neosofttech.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "4.2",
+  "source": {
+    "git": "https://github.com/Nileshnarkar777/CustomFramework.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "DemoFramework/**/*.swift",
+  "requires_arc": true
+}

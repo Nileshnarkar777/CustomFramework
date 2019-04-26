@@ -1,0 +1,16 @@
+PODS:
+  - DemoFramework (1.0.1)
+
+DEPENDENCIES:
+  - DemoFramework (from `../DemoFramework/`)
+
+EXTERNAL SOURCES:
+  DemoFramework:
+    :path: "../DemoFramework/"
+
+SPEC CHECKSUMS:
+  DemoFramework: 25e52e24b31107c5e50014e01f2db797bfdac487
+
+PODFILE CHECKSUM: 2eb39ae18e147879c3f16f62b91f39285ef32e2d
+
+COCOAPODS: 1.7.0.beta.3
